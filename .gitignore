@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+PyCitySchools/Resources/schools_complete.csv
+PyCitySchools/Resources/students_complete.csv
